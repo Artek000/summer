@@ -1,0 +1,10 @@
+.card-cover {
+    background-image: url('https://getbootstrap.com/docs/5.2/examples/features/unsplash-photo-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+body{
+    background-color: #7dffb2;
+}
